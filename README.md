@@ -19,7 +19,7 @@ First, use CSS to rearrange the layout to match the drawings as much as possible
 ## Wave 1
 ### The Homepage
 
-<img src="assets/imgs/home_layout.jpg" alt="homepage layout" style="width: 90px;"/>
+<img src="assets/imgs/home_layout.jpg" alt="homepage layout" width="90px"/>
 
 
 ## Wave 2
