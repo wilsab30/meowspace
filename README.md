@@ -19,20 +19,20 @@ First, use CSS to rearrange the layout to match the drawings as much as possible
 ## Wave 1
 ### The Homepage
 
-<img src="assets/imgs/home_layout.jpg" alt="homepage layout" width="150px"/>
+<img src="assets/imgs/home_layout.jpg" alt="homepage layout" width="250px"/>
 
 
 ## Wave 2
 ### Articles
 
 
-<img src="assets/imgs/article_layout.jpg" alt="article layout" width="150px"/>
+<img src="assets/imgs/article_layout.jpg" alt="article layout" width="250px"/>
 
 ## Wave 3
 ### Profiles
 
 
-<img src="assets/imgs/profile_layout.jpg" alt="profile layout" width="150px"/>
+<img src="assets/imgs/profile_layout.jpg" alt="profile layout" width="250px"/>
 
 ## Wave 4
 ### Refactor
