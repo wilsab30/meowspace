@@ -36,7 +36,30 @@ header {
   bottom: 300px;
 
 }
+.member {
+  margin-top: 20px;
+  width: 200px;
+  height: 200px;
 
+}
+
+.cat_name {
+  position: absolute;
+  right: 250px;
+  width: 50%;
+    font-size: 100px;
+    text-align: center;
+    color: #7798AB
+}
+
+article.border {
+  float:left;
+  border-style: solid;
+  border-color: #C6D2ED;
+  width: 25%;
+  padding-left: 10px;
+  margin: 20px;
+}
 .social {
   position: absolute;
   top: 800px;
@@ -60,7 +83,7 @@ header {
 
 }
 
-.grid1 {
+/*.grid1 {
   float:left;
   width: 30%;
 }
@@ -73,7 +96,7 @@ header {
 .grid3 {
   float:right;
   width: 30%;
-}
+}*/
 
 .kitten-nav1 {
   display: block;
