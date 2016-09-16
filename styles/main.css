@@ -21,9 +21,6 @@ header {
   left: 950px;
   top: 300px;
   width: 20%;
-  /*float:right;
-
-  padding-top: 160px;*/
 }
 
 #clear {
@@ -40,18 +37,49 @@ header {
 
 }
 
-#social {
+.social {
   position: absolute;
   top: 800px;
-  
+  background-color: #C6D2ED;
+  padding-left: 20px;
+  margin-top: 0px;
 
 }
+
+.social a {
+  display: block;
+  width: 60px;
+}
+
 .sec-kitten {
   padding-left: 140px;
 }
 
 .kitten-nav {
   width: 100%
+
+}
+
+.grid1 {
+  float:left;
+  width: 30%;
+}
+
+.grid2 {
+  float:left;
+  width: 30%;
+}
+
+.grid3 {
+  float:right;
+  width: 30%;
+}
+
+.kitten-nav1 {
+  display: block;
+  width: 90%;
+  height: 10%;
+
 
 }
 .three_kits {
@@ -100,12 +128,13 @@ h3 a { padding: 0;
 }
 
 .logo {
-  width: 5%;
-  height: 5%;
+  width: 50%;
+  height: 50%;
 }
 
 a {
   text-decoration: none;
+
 
 }
 
